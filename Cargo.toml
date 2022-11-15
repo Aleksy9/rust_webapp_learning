@@ -1,7 +1,7 @@
 [package]
-name = "eframe_template"
+name = "learning_webapp"
 version = "0.1.0"
-authors = ["Emil Ernerfeldt <emil.ernerfeldt@gmail.com>"]
+authors = ["Alexis Van Wissen <alexis.van.wissen@gmail.com>"]
 edition = "2021"
 rust-version = "1.60"
 
